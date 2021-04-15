@@ -2,6 +2,7 @@ package giaitri;
 
 import java.util.LinkedList;
 
+// tao constructor
 class ListNode{
 	private ListNode next;
 	private int info;
