@@ -52,7 +52,7 @@ public class GiaiTri {
 		 	
 	        return 0;
 	 }
-	 //reverese Array function
+	 //reverese Array function branch 1
 	 public static void reverseArray(int a[]) {
 		 for(int i=0; i<a.length/2; i++) {
 			 int temp = a[i];
