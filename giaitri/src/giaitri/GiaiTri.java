@@ -2,6 +2,7 @@ package giaitri;
 
 import java.util.LinkedList;
 
+// tao constructor
 class ListNode{
 	private ListNode next;
 	private int info;
@@ -52,7 +53,7 @@ public class GiaiTri {
 		 	
 	        return 0;
 	 }
-	 //reverese Array function
+	 //dao mang
 	 public static void reverseArray(int a[]) {
 		 for(int i=0; i<a.length/2; i++) {
 			 int temp = a[i];
